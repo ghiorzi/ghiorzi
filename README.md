@@ -9,7 +9,6 @@ I'm a **regular lazy bug developer** from Santa Catarina, Brazil.
 - Currently focusing on web development
 - Daily use: <code>.html</code>, <code>.css</code>, <code>.ts</code>, <code>.cs</code>
 - Interested in functional programming
-- Learning a little bit everyday
 
 It'd be great to have a more detailed introduction, but I'm too lazy to do that now.
 
