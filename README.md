@@ -1,7 +1,5 @@
 ## Yahallo!
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ghiorzi&show_icons=true">
-
 I'm a **regular lazy bug developer** from Santa Catarina, Brazil.
 
 - Bachelor of Business Information Systems
