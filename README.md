@@ -11,3 +11,10 @@ I'm a **regular lazy bug developer** from Santa Catarina, Brazil.
 - Currently focusing on web development
 - Daily use: <code>.html</code>, <code>.css</code>, <code>.ts</code>, <code>.cs</code>
 - Interested in functional programming
+
+
+## Latest articles
+
+- [LINQ (1) - Lazy evaluation](https://ghiorzi.github.io/linq-1-lazy-evaluation/)
+- [Orientação a objetos (1) - lidando com estados sem o uso de estruturas condicionais](https://ghiorzi.github.io/orientacao-a-objetos-1-lidando-com-estados-sem-o-uso-de-estruturas-condicionais/)
+- [O contexto musical por trás da linguagem C#](https://ghiorzi.github.io/o-contexto-musical-por-tras-da-linguagem-c/)
