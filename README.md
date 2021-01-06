@@ -4,7 +4,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ghiorzi&count_private=true&theme=dracula" />
  
-I'm a **regular lazy bug developer** from Santa Catarina, Brazil.
+I'm a **lazy bug developer** from Santa Catarina, Brazil.
 
 - Bachelor of Business Information Systems
 - _Technical writer_ at **Medium** and **Linkedin**
