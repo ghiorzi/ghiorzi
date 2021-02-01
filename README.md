@@ -7,10 +7,10 @@
 I'm a **lazy bug developer** from Santa Catarina, Brazil.
 
 - Bachelor of Business Information Systems
-- _Technical writer_ at **Medium** and **Linkedin**
+- _Technical writer_ at [ghiorzi.io](https://ghiorzi.github.io/)
 - Currently focusing on web development
 - Daily use: <code>.html</code>, <code>.css</code>, <code>.ts</code>, <code>.cs</code>
-- Interested in functional programming
+- Interested in code legibility
 
 
 ## Latest articles
