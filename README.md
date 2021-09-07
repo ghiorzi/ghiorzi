@@ -7,14 +7,13 @@
 I'm a **lazy developer** from Santa Catarina, Brazil.
 
 - Bachelor of Business Information Systems
-- Technical writer at [ghiorzi.io](https://ghiorzi.github.io/)
+- Technical writer at [yukipedia](https://github.com/ghiorzi/yukipedia)
 - Currently focusing on web development
 - At work: <code>.html</code>, <code>.scss</code>, <code>.ts</code>, <code>.cs</code>
 - Interested in code legibility
 
 
 ## Latest articles
-
-- [LINQ (1) - Lazy evaluation](https://ghiorzi.github.io/linq-1-lazy-evaluation/)
-- [Orientação a objetos (1) - lidando com estados sem o uso de estruturas condicionais](https://ghiorzi.github.io/orientacao-a-objetos-1-lidando-com-estados-sem-o-uso-de-estruturas-condicionais/)
-- [O contexto musical por trás da linguagem C#](https://ghiorzi.github.io/o-contexto-musical-por-tras-da-linguagem-c/)
+- [Minha perspectiva sobre ser programador](https://github.com/ghiorzi/yukipedia/blob/main/career/Minha%20perspectiva%20sobre%20ser%20programador.md)
+- [LINQ - Lazy evaluation](https://github.com/ghiorzi/yukipedia/blob/main/linq/Lazy%20evaluation.md)
+- [Orientação a objetos - lidando com estados sem o uso de estruturas condicionais](https://github.com/ghiorzi/yukipedia/blob/main/object%20oriented%20programming/Lidando%20com%20estados%20sem%20o%20uso%20de%20estruturas%20condicionais.md)
