@@ -7,7 +7,7 @@
 I'm a **lazy developer** from Santa Catarina, Brazil.
 
 - Bachelor of Business Information Systems
-- Technical writer at [yukipedia](https://github.com/ghiorzi/yukipedia)
+- Amateur writer at [yukipedia](https://github.com/ghiorzi/yukipedia)
 - Currently focusing on web development
 - At work: <code>.html</code>, <code>.scss</code>, <code>.ts</code>, <code>.cs</code>
 - Interested in code legibility
